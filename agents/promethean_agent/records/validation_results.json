@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-13",
+  "timezone": "America/New_York",
+  "cases_checked": 4,
+  "api_runs": 6,
+  "frozen_core": "FROZEN CORE INTACT",
+  "copied_helper_byte_identical": true,
+  "secret_scan": "No matching key material found in publishable text files",
+  "responses": [
+    {
+      "file": "agents/promethean_agent/responses/ambiguous_response.json",
+      "sha256": "449dad2d4fb1073ce77d659bd61e868e0b6fa8dfa02715288a4db95eb2cec687",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/contrast_1_response.json",
+      "sha256": "33d2af5901301aec181118e654737ea5c29ea399e7b5abac839f7f23346e3eda",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/contrast_2_response.json",
+      "sha256": "9d830435ce2a620346ae97bd12a99b58fdec73850314987115250829ed659d02",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/primary_response.json",
+      "sha256": "9178efb9c8cedb112a8f9763b631b94686e1d9306e7e0801c9e82ca37a8a569c",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/promethean_agent_ambiguous_prompt_response_2026-10-13_20-58-31_457498-0400.json",
+      "sha256": "449dad2d4fb1073ce77d659bd61e868e0b6fa8dfa02715288a4db95eb2cec687",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/promethean_agent_contrast_1_prompt_response_2026-10-13_20-56-13_213550-0400.json",
+      "sha256": "fef2a56b9b06c9125a34b7efaa1aae0763aba6184da296b590ea712fdc719f72",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/promethean_agent_contrast_1_prompt_response_2026-10-13_20-58-31_457497-0400.json",
+      "sha256": "33d2af5901301aec181118e654737ea5c29ea399e7b5abac839f7f23346e3eda",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/promethean_agent_contrast_2_prompt_response_2026-10-13_20-58-31_458323-0400.json",
+      "sha256": "9d830435ce2a620346ae97bd12a99b58fdec73850314987115250829ed659d02",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/promethean_agent_primary_prompt_response_2026-10-13_20-56-13_213589-0400.json",
+      "sha256": "6acf14e153efc07f1c86a9c61d4fa5d51aec6c11d4e2abf6b5704fd17dabdf40",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/promethean_agent_primary_prompt_response_2026-10-13_20-58-31_458976-0400.json",
+      "sha256": "9178efb9c8cedb112a8f9763b631b94686e1d9306e7e0801c9e82ca37a8a569c",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/v0_1/contrast_1_response.json",
+      "sha256": "fef2a56b9b06c9125a34b7efaa1aae0763aba6184da296b590ea712fdc719f72",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/v0_1/primary_response.json",
+      "sha256": "6acf14e153efc07f1c86a9c61d4fa5d51aec6c11d4e2abf6b5704fd17dabdf40",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/v0_2/ambiguous_response.json",
+      "sha256": "449dad2d4fb1073ce77d659bd61e868e0b6fa8dfa02715288a4db95eb2cec687",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/v0_2/contrast_1_response.json",
+      "sha256": "33d2af5901301aec181118e654737ea5c29ea399e7b5abac839f7f23346e3eda",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/v0_2/contrast_2_response.json",
+      "sha256": "9d830435ce2a620346ae97bd12a99b58fdec73850314987115250829ed659d02",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/promethean_agent/responses/v0_2/primary_response.json",
+      "sha256": "9178efb9c8cedb112a8f9763b631b94686e1d9306e7e0801c9e82ca37a8a569c",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    }
+  ]
+}
