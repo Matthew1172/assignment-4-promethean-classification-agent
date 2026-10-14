@@ -1,0 +1,36 @@
+Week 6 | Assignment 4 - Promethean Technology Classification Agent
+Governing question: 
+Is this technology incremental, breakthrough, or potentially civilization-changing, and how much should that broader potential influence this organization's present application decision?
+Expected effort: about 60-90 minutes. Stop at 90 minutes unless the instructor explicitly directs otherwise. Use ChatGPT/Codex and the supplied scaffold to reduce unnecessary mechanical work; preserve unresolved technical issues rather than turning the assignment into an open-ended development exercise. The quality of the evidence and judgment matters more than technical ornamentation or length.
+Purpose and Project Connection
+Create a specialist agent that evaluates the scale and breadth of technological significance while resisting hype and separating long-range societal potential from a local organizational decision.
+Professional Charge
+Build an agent that applies explicit course criteria to classify an emerging technology as incremental, breakthrough, or potentially Promethean. The agent must produce a general technology-level judgment first, then separately assess how consequential the proposed application could be for the organization. A technology can be potentially Promethean without making every current application strategically wise.
+Required Scaffold and Tool Workflow
+Use the frozen MASY1800 Common Emerging Technology Agent Scaffold ZIP distributed through Brightspace. Make a working copy, place that working copy in your own GitHub repository, and use ChatGPT with Codex as the supported course development path. Do not rebuild or silently alter the frozen common intake/output architecture. Your work is to specialize the supplied scaffold for this assignment, test it, diagnose weaknesses, revise it, and preserve the resulting repository/branch/commit and test evidence. The standard scaffold workflow does not require an OpenAI API key: it builds a ChatGPT-ready prompt packet, and you save the structured ChatGPT response back into your working copy for validation.
+What to Do
+1.  
+Define the criteria the agent will use to distinguish incremental, breakthrough, and potentially Promethean technological change. Criteria should be explicit enough that a skeptical reviewer can challenge them.
+2.  
+Require the agent to identify evidence supporting and opposing the higher-significance classification and to communicate confidence rather than forcing certainty.
+3.  
+Require separate outputs for broad technology significance, application significance, and organization-specific implications.
+4.  
+Prevent the agent from treating market excitement, funding, media attention, or novelty alone as evidence of civilization-changing significance.
+5.  
+Run the primary and context-contrast tests. The broad classification should not swing merely because the organization is conservative or aggressive, while the implication for management may change substantially.
+6.  
+Revise the agent and specify an abstention or qualification rule for technologies whose long-term significance cannot yet be credibly distinguished.
+AI Leverage Hints
+Ask AI to make the strongest case both for and against a Promethean classification before you decide what evidence the agent should require.
+Use AI to generate hype-driven prompts and test whether the agent resists being steered into an unsupported transformational label.
+Verify factual claims about scale, capability, deployment, historical impact, or enabling infrastructure using credible and current sources.
+Required Artifact
+Primary output: 
+A working Promethean Technology Classification Agent plus its Agent Record, explicit significance criteria, primary and contrast test record, evidence-for/evidence-against example, one preserved failure or overclaim, and known limitations.
+Independent judgment: 
+What significance classification is justified by the evidence, how confident should management be, and how much should that broad significance affect the contemplated application in this organization today?
+AI/verification note: 
+Briefly state how AI materially helped, how consequential factual or methodological guidance was checked, and where you relied on original evidence rather than model memory or generated summaries.
+Team Handoff
+Bring the agent package, the classification criteria, the strongest evidence against your preferred classification, and one rule the integrated system should use to prevent long-term technological importance from becoming automatic advocacy for near-term adoption.

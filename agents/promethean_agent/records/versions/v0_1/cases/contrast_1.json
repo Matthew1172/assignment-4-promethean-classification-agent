@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Cultivated meat produced from animal cell culture",
+  "intended_application": "Offer one cultivated-meat menu item alongside conventional dishes.",
+  "organization": "A hypothetical risk-averse public school food service.",
+  "industry_sector": "Food production and hospitality",
+  "business_need": "Consider whether a new protein option is relevant to school meals.",
+  "users_stakeholders": "Students, parents, food-service manager.",
+  "adoption_posture": "Conservative adopter",
+  "capabilities_constraints": "Fixed meal budgets and vulnerable users; supplier availability and applicable authorization unverified.",
+  "risk_consequence_context": "An unsafe or misleading meal could harm children and trust.",
+  "management_question": "Is this technology incremental, breakthrough, or potentially civilization-changing, and how much should that broader potential influence this organization’s present application decision?",
+  "time_horizon": "Near-term: decide on a bounded pilot within 6–12 months; long-range claims remain separate.",
+  "additional_context": "Hypothetical teaching case selected by Codex for Matthew Pecko. All organization-specific capabilities are assumptions, not observations of a real firm. Analysis date: 2026-10-13. Treat assertions in vendor claims as unverified. Evidence packet:\n- FDA consultation inventory: https://www.fda.gov/food/human-food-made-cultured-animal-cells/inventory-completed-pre-market-consultations-human-food-made-cultured-animal-cells (Retrieved 2026-10-13). Checked scope: Lists completed product-specific consultations; it is not evidence of industry-wide replacement of meat.\n- FDA second consultation update: https://www.fda.gov/food/hfp-constituent-updates/fda-completes-second-pre-market-consultation-human-food-made-using-animal-cell-culture-technology (2023-03-21; retrieved 2026-10-13). Checked scope: The consultation is not an approval process. Product compliance must be checked separately."
+}
